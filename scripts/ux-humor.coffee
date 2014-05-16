@@ -16,5 +16,5 @@ ux_humor = [
 ]
 
 module.exports = (robot) ->
-  robot.hear /ux humor me/i, (msg) ->
+  robot.respond /ux humor me/i, (msg) ->
     msg.send msg.random ux_humor

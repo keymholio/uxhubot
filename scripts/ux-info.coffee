@@ -32,5 +32,5 @@ ux_knowledge = [
 ]
 
 module.exports = (robot) ->
-  robot.hear /ux me/i, (msg) ->
+  robot.respond /ux me/i, (msg) ->
     msg.send msg.random ux_knowledge
