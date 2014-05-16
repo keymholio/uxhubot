@@ -5,7 +5,6 @@
 #   hubot ux me - Make it rain UX info
 #
 
-
 ux_knowledge = [
   "http://uxmag.com/articles/the-adventures-of-usability-girl",
   "http://uxmyths.com/",
