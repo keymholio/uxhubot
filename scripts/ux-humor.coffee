@@ -25,7 +25,16 @@ ux_humor = [
   "http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/10000/2000/600/12683/12683.strip.gif",
   "http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/20000/1000/100/21158/21158.strip.gif",
   "http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/20000/1000/100/21130/21130.strip.gif",
-  "http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/20000/3000/600/23655/23655.strip.sunday.gif"
+  "http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/20000/3000/600/23655/23655.strip.sunday.gif",
+  "http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/80000/6000/800/86853/86853.strip.sunday.gif",
+  "http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/00000/0000/000/81/81.strip.gif",
+  "http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/00000/0000/000/80/80.strip.gif",
+  "http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/00000/2000/100/2118/2118.strip.gif",
+  "http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/00000/7000/100/7151/7151.strip.gif",
+  "http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/00000/1000/700/1791/1791.strip.gif",
+  "http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/00000/1000/000/1051/1051.strip.gif",
+  "http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/00000/2000/200/2252/2252.strip.sunday.gif",
+  "http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/10000/8000/200/18213/18213.strip.gif"
 ]
 
 module.exports = (robot) ->
