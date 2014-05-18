@@ -34,7 +34,10 @@ ux_humor = [
   "http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/00000/1000/700/1791/1791.strip.gif",
   "http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/00000/1000/000/1051/1051.strip.gif",
   "http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/00000/2000/200/2252/2252.strip.sunday.gif",
-  "http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/10000/8000/200/18213/18213.strip.gif"
+  "http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/10000/8000/200/18213/18213.strip.gif",
+  "http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/00000/1000/500/1597/1597.strip.gif",
+  "http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/70000/9000/500/79574/79574.strip.gif",
+  "http://dilbert.com/dyn/str_strip/000000000/00000000/0000000/000000/40000/3000/500/43544/43544.strip.gif"
 ]
 
 module.exports = (robot) ->
