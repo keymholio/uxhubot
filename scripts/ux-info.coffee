@@ -28,7 +28,8 @@ ux_knowledge = [
   "http://www.webdesignerdepot.com/2014/01/3-reasons-we-should-stop-using-navigation-bars/",
   "http://www.uxmatters.com/mt/archives/2013/11/customer-experience-versus-user-experience-whats-the-difference-and-why-does-it-matter.php",
   "http://www.newrepublic.com/article/115726/period-our-simplest-punctuation-mark-has-become-sign-anger",
-  "http://speckyboy.com/2013/11/21/flat-design-vs-minimalism/"
+  "http://speckyboy.com/2013/11/21/flat-design-vs-minimalism/",
+  "http://baymard.com/blog/avoid-multi-column-forms"
 ]
 
 module.exports = (robot) ->
